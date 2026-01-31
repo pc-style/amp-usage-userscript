@@ -2,10 +2,10 @@
 // ==UserScript==
 // @name         AmpCode Credit Usage Interceptor
 // @namespace    pcstyle
-// @version      1.4
+// @version      1.5
 // @description  Intercepts fetch request, fixes decimals, and shows sums in UI
 // @author       pcstyle
-// @match        https://ampcode.com/*
+// @match        https://ampcode.com/settings
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/pc-style/amp-usage-userscript/main/amp-usage.user.js
 // @downloadURL  https://raw.githubusercontent.com/pc-style/amp-usage-userscript/main/amp-usage.user.js
